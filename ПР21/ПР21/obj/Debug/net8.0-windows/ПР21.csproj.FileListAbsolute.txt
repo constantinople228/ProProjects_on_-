@@ -1,0 +1,17 @@
+C:\Users\slobo\source\repos\ПР21\ПР21\obj\Debug\net8.0-windows\ПР21.Form1.resources
+C:\Users\slobo\source\repos\ПР21\ПР21\obj\Debug\net8.0-windows\ПР21.csproj.GenerateResource.cache
+C:\Users\slobo\source\repos\ПР21\ПР21\obj\Debug\net8.0-windows\ПР21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slobo\source\repos\ПР21\ПР21\obj\Debug\net8.0-windows\ПР21.AssemblyInfoInputs.cache
+C:\Users\slobo\source\repos\ПР21\ПР21\obj\Debug\net8.0-windows\ПР21.AssemblyInfo.cs
+C:\Users\slobo\source\repos\ПР21\ПР21\obj\Debug\net8.0-windows\ПР21.csproj.CoreCompileInputs.cache
+C:\Users\slobo\source\repos\ПР21\ПР21\obj\Debug\net8.0-windows\ПР21.sourcelink.json
+C:\Users\slobo\source\repos\ПР21\ПР21\bin\Debug\net8.0-windows\ПР21.exe
+C:\Users\slobo\source\repos\ПР21\ПР21\bin\Debug\net8.0-windows\ПР21.deps.json
+C:\Users\slobo\source\repos\ПР21\ПР21\bin\Debug\net8.0-windows\ПР21.runtimeconfig.json
+C:\Users\slobo\source\repos\ПР21\ПР21\bin\Debug\net8.0-windows\ПР21.dll
+C:\Users\slobo\source\repos\ПР21\ПР21\bin\Debug\net8.0-windows\ПР21.pdb
+C:\Users\slobo\source\repos\ПР21\ПР21\obj\Debug\net8.0-windows\ПР21.dll
+C:\Users\slobo\source\repos\ПР21\ПР21\obj\Debug\net8.0-windows\refint\ПР21.dll
+C:\Users\slobo\source\repos\ПР21\ПР21\obj\Debug\net8.0-windows\ПР21.pdb
+C:\Users\slobo\source\repos\ПР21\ПР21\obj\Debug\net8.0-windows\ПР21.genruntimeconfig.cache
+C:\Users\slobo\source\repos\ПР21\ПР21\obj\Debug\net8.0-windows\ref\ПР21.dll
